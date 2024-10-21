@@ -17,6 +17,12 @@
   border-radius: 32px;
 }
 
+.fab:hover,
+.fa-brands:hover {
+  color: #ffc107 !important;
+  transform: scale(1.2);
+}
+
 @media (max-width: 768px) {
   .rounded-circle {
     font-size: 2rem !important;
